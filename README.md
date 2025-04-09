@@ -22,7 +22,7 @@ This repo is organized by PowerShell modules commonly used in IR:
 - [`GraphAPI`](./GraphAPI) – (coming soon) for enrichment and identity-based investigation
 - [`General`](./General) – for core forensic and response actions
 
-## 🧭 Usage
+## Usage
 
 Each module folder includes:
 - Scripts for real-world IR scenarios
@@ -33,22 +33,3 @@ Each module folder includes:
 ## 🚧 Work in Progress
 
 This repo is actively growing. Expect new scripts, refactors, and documentation improvements regularly.
-
----
-
-Happy Hunting 🕵️‍♀️  
-– Martha Sosa
-"""
-
-# Template for individual module README files (e.g., ExchangeOnlineManagement, PSFalcon, etc.)
-module_readme_template = """# 📂 {ModuleName}
-
-This folder contains PowerShell scripts built with the `{ModuleName}` module to support incident response workflows. Scripts in this section are meant to help automate and streamline investigations and remediation.
-
-## 🔧 Module Setup
-
-Before using the scripts in this folder, make sure you have the module installed and authenticated:
-
-```powershell
-Install-Module {ModuleName}
-Import-Module {ModuleName}
