@@ -24,7 +24,7 @@ This repo is organized by PowerShell modules commonly used in IR:
 
 ## Usage
 
-Each module folder includes:
+Each module folder will include:
 - Scripts for real-world IR scenarios
 - Comments explaining the context and use
 - Sample input/output (where applicable)
