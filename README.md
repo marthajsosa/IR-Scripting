@@ -17,10 +17,10 @@ This repo is organized by PowerShell modules commonly used in IR:
         - [Manage Users and Groups](https://learn.microsoft.com/en-us/training/modules/manage-sharepoint-online-use-windows-powershell/3-manage-sharepoint-online-users-groups)
         - [Manage sites](https://learn.microsoft.com/en-us/training/modules/manage-sharepoint-online-use-windows-powershell/4-manage-sharepoint-sites)
         - [Manage External Users](https://learn.microsoft.com/en-us/training/modules/manage-sharepoint-online-use-windows-powershell/5-manage-sharepoint-online-external-user-sharing)
--  [`PSFalcon`](./PSFalcon) – for CrowdStrike RTR-based automation and containment
+- [`PSFalcon`](./PSFalcon) – (coming soon)for CrowdStrike RTR-based automation and containment
 - [`Defender`](./Defender) – (coming soon) for Microsoft Defender live response and artifact collection
 - [`GraphAPI`](./GraphAPI) – (coming soon) for enrichment and identity-based investigation
-- [`General`](./General) – for core forensic and response actions
+- [`General`](./General) – (coming soon) for core forensic and response actions
 
 ## Usage
 
