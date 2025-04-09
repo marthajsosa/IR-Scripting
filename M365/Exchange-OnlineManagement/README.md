@@ -1,4 +1,4 @@
-# This folder contains scripts related to Exchange-OnlineManagement module in PowerShell.
+# Exchange-OnlineManagement Module
 - ### [`Exchange Online Management`](./ExchangeOnlineManagement) – for email trace, auditing, and phishing investigation
     - References:
         - [Install Exchange-Online Module](https://www.powershellgallery.com/packages/ExchangeOnlineManagement/3.7.2)
